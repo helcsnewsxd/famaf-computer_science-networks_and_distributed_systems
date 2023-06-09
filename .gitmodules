@@ -1,0 +1,12 @@
+[submodule "redes23lab1g31"]
+	path = redes23lab1g31
+	url = git@github.com:helcsnewsxd/redes23lab1g31.git
+[submodule "redes23lab2g31"]
+	path = redes23lab2g31
+	url = git@github.com:helcsnewsxd/redes23lab2g31.git
+[submodule "redes23lab3g31"]
+	path = redes23lab3g31
+	url = git@github.com:helcsnewsxd/redes23lab3g31.git
+[submodule "redes23lab4g31"]
+	path = redes23lab4g31
+	url = git@github.com:helcsnewsxd/redes23lab4g31.git
