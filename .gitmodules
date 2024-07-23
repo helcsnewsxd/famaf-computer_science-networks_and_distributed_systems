@@ -1,12 +1,12 @@
-[submodule "redes23lab1g31"]
-	path = redes23lab1g31
-	url = git@github.com:helcsnewsxd/redes23lab1g31.git
-[submodule "redes23lab2g31"]
-	path = redes23lab2g31
-	url = git@github.com:helcsnewsxd/redes23lab2g31.git
-[submodule "redes23lab3g31"]
-	path = redes23lab3g31
-	url = git@github.com:helcsnewsxd/redes23lab3g31.git
-[submodule "redes23lab4g31"]
-	path = redes23lab4g31
-	url = git@github.com:helcsnewsxd/redes23lab4g31.git
+[submodule "lab1"]
+	path = lab1
+	url = https://github.com/helcsnewsxd/famaf-computer_science-networks_and_distributed_systems-lab1
+[submodule "lab2"]
+	path = lab2
+	url = https://github.com/helcsnewsxd/famaf-computer_science-networks_and_distributed_systems-lab2
+[submodule "lab3"]
+	path = lab3
+	url = https://github.com/helcsnewsxd/famaf-computer_science-networks_and_distributed_systems-lab3
+[submodule "lab4"]
+	path = lab4
+	url = https://github.com/helcsnewsxd/famaf-computer_science-networks_and_distributed_systems-lab4
